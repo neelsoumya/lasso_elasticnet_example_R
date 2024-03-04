@@ -1,4 +1,4 @@
-# lasso_elasticnet_example_R
+# Introduction
 
 Example of LASSO and elastic net in R
 
