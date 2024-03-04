@@ -8,6 +8,15 @@ Example of LASSO and elastic net in R
  install.packages('glmnet')
 ```
 
+## Code
+
+Run the code using
+
+```python
+R --no-save < lasso_elasticnet.R
+
+```
+
 ## Acknowledgements
 
 Adapted from 
