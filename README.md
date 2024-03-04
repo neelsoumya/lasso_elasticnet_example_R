@@ -5,7 +5,7 @@ Example of LASSO and elastic net in R
 ## Installation
 
 ```python
-# install.packages('glmnet')
+ install.packages('glmnet')
 ```
 
 ## Acknowledgements
